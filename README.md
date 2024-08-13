@@ -94,7 +94,7 @@ O desafio proposto para este projeto com o nome de super gestão é a criação 
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), <br>
+[GitHub]([https://git-scm.com](https://github.com/)), <br>
 [Laravel](https://laravel.com/docs/9.x/installation).  <br>
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
