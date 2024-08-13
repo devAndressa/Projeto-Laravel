@@ -112,12 +112,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[PHP](https://www.php.net/docs.php)**
   
 
-#### **Prototipação** ([Figma](https://www.figma.com/))
-
-- **[Minha Prototipação](https://www.figma.com/file/J1zv4Q8hCFhxhuZE5XINxu/Prototipa%C3%A7%C3%A3o-desafio-Digitalk?t=9EYQVYnf9XIZWWZr-1)**
-
----
-
 <!-- ---------------------------------------------------------------------- -->
 
 <!-- MODELO DE COMO CONTRIBUIR PARA O PROJETO -->
